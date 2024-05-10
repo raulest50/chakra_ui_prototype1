@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Production build directory
+dist/
+
+# Vite cache
+.vite/
+.vite_temp/
+
+# Bun cache and logs
+.bun/
+.bun*.log
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# System files
+.DS_Store
