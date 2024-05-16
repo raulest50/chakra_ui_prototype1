@@ -1,0 +1,37 @@
+I've found several recent tutorials and resources on Chakra UI that could help you in mastering UI design:
+
+1. **[Chakra UI Tutorial on YouTube by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP)**
+   - **Description:** A series of 12 videos covering everything from basic setup to advanced customization.
+   - **Date:** Updated in February 2023.
+
+2. **[Chakra UI Official Documentation](https://chakra-ui.com/docs/getting-started)**
+   - **Description:** The official Chakra UI documentation provides detailed guides, API descriptions, and interactive examples.
+
+3. **[Next.js and Chakra UI Integration](https://github.com/chakra-ui/chakra-ui/issues/7649)**
+   - **Description:** Discussion on GitHub about integrating Chakra UI with the new Next.js App Router.
+   - **Date:** May 2023.
+
+4. **[Chakra UI by Leigh Halliday](https://www.leighhalliday.com/chakra-ui)**
+   - **Description:** A tutorial focusing on integrating Chakra UI with React applications.
+
+5. **[Create a React App with Chakra UI](https://blog.logrocket.com/how-to-use-chakra-ui-react/)**
+   - **Description:** A step-by-step guide on LogRocket blog about starting a new React project with Chakra UI.
+   - **Date:** Published in 2023.
+
+6. **[Mastering Chakra UI: Building a Real-World Application](https://scrimba.com/learn/chakraui)**
+   - **Description:** An interactive course on Scrimba where you build a project using Chakra UI.
+
+7. **[Responsive Design with Chakra UI](https://egghead.io/courses/responsive-web-design-with-chakra-ui)**
+   - **Description:** A course on Egghead.io about creating responsive layouts using Chakra UI.
+
+8. **[Chakra UI Component Library: A Hands-on Guide](https://www.freecodecamp.org/news/chakra-ui-react-component-library/)**
+   - **Description:** FreeCodeCamp tutorial on using the Chakra UI component library in a React project.
+
+9. **[Building Forms with Chakra UI and React Hook Form](https://dev.to/ibrahima92/react-hook-form-v7-with-chakra-ui-v1-2emi)**
+   - **Description:** A tutorial on Dev.to about using Chakra UI with React Hook Form to build forms efficiently.
+
+10. **[Chakra UI and Framer Motion for Animation](https://www.youtube.com/watch?v=IL82CzlaCys)**
+    - **Description:** A YouTube tutorial that demonstrates how to integrate Chakra UI with Framer Motion for adding animations to a React app.
+    - **Date:** Released in 2023.
+
+These resources cover a wide range of topics from basic to advanced levels, focusing on using Chakra UI to design attractive and functional web interfaces.
